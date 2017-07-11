@@ -1,143 +1,82 @@
-[00:00:24] [Server thread/INFO]: blucy100 was shot by Skeleton
-[00:00:43] [Server thread/INFO]: aprilfool2112 has made the advancement [Stone Age]
-[00:02:15] [Server thread/INFO]: aprilfool2112 has made the advancement [Getting an Upgrade]
-[00:04:01] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[00:04:07] [Server thread/INFO]: --- Showing help page 1 of 10 (/help <page>) ---
-[00:04:07] [Server thread/INFO]: /advancement <grant|revoke|test> <player>
-[00:04:07] [Server thread/INFO]: /ban <name> [reason ...]
-[00:04:07] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
-[00:04:07] [Server thread/INFO]: /banlist [ips|players]
-[00:04:07] [Server thread/INFO]: /blockdata <x> <y> <z> <dataTag>
-[00:04:07] [Server thread/INFO]: /clear [player] [item] [data] [maxCount] [dataTag]
-[00:04:07] [Server thread/INFO]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
-[00:04:07] [Server thread/INFO]: Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
-[00:04:44] [Server thread/INFO]: NotHeKtik has made the advancement [Getting an Upgrade]
-[00:08:34] [Server thread/INFO]: aprilfool2112 has made the advancement [Monster Hunter]
-[00:12:03] [Server thread/INFO]: gurellia53 has made the advancement [Getting an Upgrade]
-[00:12:38] [Server thread/INFO]: blucy100 was slain by Zombie
-[00:13:30] [Server thread/INFO]: NotHeKtik lost connection: Disconnected
-[00:13:30] [Server thread/INFO]: NotHeKtik left the game
-[00:21:35] [User Authenticator #8/INFO]: UUID of player NotHeKtik is fe0c500d-b9d2-4a38-942f-5232f5f07745
-[00:21:35] [Server thread/INFO]: NotHeKtik[/75.129.221.97:57333] logged in with entity id 41479 at (253.2633202864925, 68.0, 181.47801905110398)
-[00:21:35] [Server thread/INFO]: NotHeKtik joined the game
-[00:22:31] [Server thread/INFO]: blucy100 has made the advancement [Acquire Hardware]
-[00:23:21] [Server thread/INFO]: blucy100 has made the advancement [Suit Up]
-[00:23:58] [Server thread/INFO]: blucy100 has made the advancement [Isn't It Iron Pick]
-[00:25:51] [Server thread/INFO]: gurellia53 has made the advancement [Acquire Hardware]
-[00:26:15] [Server thread/INFO]: aprilfool2112 has made the advancement [Acquire Hardware]
-[00:30:38] [Server thread/INFO]: aprilfool2112 has made the advancement [Isn't It Iron Pick]
-[00:30:45] [Server thread/INFO]: aprilfool2112 has made the advancement [Diamonds!]
-[00:31:47] [Server thread/INFO]: blucy100 has made the advancement [A Seedy Place]
-[00:33:33] [Server thread/INFO]: NotHeKtik has made the advancement [Monster Hunter]
-[00:44:54] [Server thread/INFO]: aprilfool2112 has made the advancement [Suit Up]
-[00:48:59] [Server thread/INFO]: NotHeKtik was shot by Skeleton
-[00:57:14] [Server thread/INFO]: NotHeKtik has made the advancement [Acquire Hardware]
-[01:00:46] [Server thread/INFO]: aprilfool2112 has made the advancement [Hot Stuff]
-[01:19:43] [Server thread/INFO]: NotHeKtik has made the advancement [A Seedy Place]
-[01:23:13] [Server thread/INFO]: --- Showing help page 1 of 10 (/help <page>) ---
-[01:23:13] [Server thread/INFO]: /advancement <grant|revoke|test> <player>
-[01:23:13] [Server thread/INFO]: /ban <name> [reason ...]
-[01:23:13] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
-[01:23:13] [Server thread/INFO]: /banlist [ips|players]
-[01:23:13] [Server thread/INFO]: /blockdata <x> <y> <z> <dataTag>
-[01:23:13] [Server thread/INFO]: /clear [player] [item] [data] [maxCount] [dataTag]
-[01:23:13] [Server thread/INFO]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
-[01:23:13] [Server thread/INFO]: Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
-[01:38:10] [Server thread/INFO]: aprilfool2112 has made the advancement [The Parrots and the Bats]
-[01:46:49] [Server thread/INFO]: aprilfool2112 has made the advancement [Not Today, Thank You]
-[01:51:01] [Server thread/INFO]: blucy100 has made the advancement [Best Friends Forever]
-[01:55:28] [Server thread/INFO]: blucy100 has made the advancement [The Parrots and the Bats]
-[02:01:15] [Server thread/INFO]: NotHeKtik has made the advancement [Suit Up]
-[02:05:47] [Server thread/INFO]: NotHeKtik lost connection: Disconnected
-[02:05:47] [Server thread/INFO]: NotHeKtik left the game
-[02:08:34] [Server thread/INFO]: blucy100 lost connection: Disconnected
-[02:08:34] [Server thread/INFO]: blucy100 left the game
-[02:09:59] [Server thread/INFO]: gurellia53 lost connection: Disconnected
-[02:09:59] [Server thread/INFO]: gurellia53 left the game
-[02:10:10] [Server thread/INFO]: aprilfool2112 lost connection: Disconnected
-[02:10:10] [Server thread/INFO]: aprilfool2112 left the game
-[02:10:18] [Server thread/INFO]: --- Showing help page 1 of 10 (/help <page>) ---
-[02:10:18] [Server thread/INFO]: /advancement <grant|revoke|test> <player>
-[02:10:18] [Server thread/INFO]: /ban <name> [reason ...]
-[02:10:18] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
-[02:10:18] [Server thread/INFO]: /banlist [ips|players]
-[02:10:18] [Server thread/INFO]: /blockdata <x> <y> <z> <dataTag>
-[02:10:18] [Server thread/INFO]: /clear [player] [item] [data] [maxCount] [dataTag]
-[02:10:18] [Server thread/INFO]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
-[02:10:18] [Server thread/INFO]: Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
-[02:10:30] [Server thread/INFO]: --- Showing help page 1 of 10 (/help <page>) ---
-[02:10:30] [Server thread/INFO]: /advancement <grant|revoke|test> <player>
-[02:10:30] [Server thread/INFO]: /ban <name> [reason ...]
-[02:10:30] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
-[02:10:30] [Server thread/INFO]: /banlist [ips|players]
-[02:10:30] [Server thread/INFO]: /blockdata <x> <y> <z> <dataTag>
-[02:10:30] [Server thread/INFO]: /clear [player] [item] [data] [maxCount] [dataTag]
-[02:10:30] [Server thread/INFO]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
-[02:10:30] [Server thread/INFO]: Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
-[02:10:33] [Server thread/INFO]: --- Showing help page 2 of 10 (/help <page>) ---
-[02:10:33] [Server thread/INFO]: /debug <start|stop>
-[02:10:33] [Server thread/INFO]: /defaultgamemode <mode>
-[02:10:33] [Server thread/INFO]: /deop <player>
-[02:10:33] [Server thread/INFO]: /difficulty <new difficulty>
-[02:10:33] [Server thread/INFO]: /effect <player> <effect> [seconds] [amplifier] [hideParticles] OR /effect <player> clear
-[02:10:33] [Server thread/INFO]: /enchant <player> <enchantment ID> [level]
-[02:10:33] [Server thread/INFO]: /entitydata <entity> <dataTag>
-[02:10:35] [Server thread/INFO]: --- Showing help page 3 of 10 (/help <page>) ---
-[02:10:35] [Server thread/INFO]: /execute <entity> <x> <y> <z> <command> OR /execute <entity> <x> <y> <z> detect <x> <y> <z> <block> <dataValue|-1|state|*> <command>
-[02:10:35] [Server thread/INFO]: /fill <x1> <y1> <z1> <x2> <y2> <z2> <block> [dataValue|state] [oldBlockHandling] [dataTag]
-[02:10:35] [Server thread/INFO]: /function <name> [if <selector>|unless <selector>]
-[02:10:35] [Server thread/INFO]: /gamemode <mode> [player]
-[02:10:35] [Server thread/INFO]: /gamerule <rule name> [value]
-[02:10:35] [Server thread/INFO]: /give <player> <item> [amount] [data] [dataTag]
-[02:10:35] [Server thread/INFO]: /help [page|command name]
-[02:10:39] [Server thread/INFO]: --- Showing help page 4 of 10 (/help <page>) ---
-[02:10:39] [Server thread/INFO]: /kick <player> [reason ...]
-[02:10:39] [Server thread/INFO]: /kill [player|entity]
-[02:10:39] [Server thread/INFO]: /list
-[02:10:39] [Server thread/INFO]: /locate <feature>
-[02:10:39] [Server thread/INFO]: /me <action ...>
-[02:10:39] [Server thread/INFO]: /op <player>
-[02:10:39] [Server thread/INFO]: /pardon <name>
-[02:10:42] [Server thread/INFO]: --- Showing help page 5 of 10 (/help <page>) ---
-[02:10:42] [Server thread/INFO]: /pardon-ip <address>
-[02:10:42] [Server thread/INFO]: /particle <name> <x> <y> <z> <xd> <yd> <zd> <speed> [count] [mode] [player] [params]
-[02:10:42] [Server thread/INFO]: /playsound <sound> <source> <player> [x] [y] [z] [volume] [pitch] [minimumVolume]
-[02:10:42] [Server thread/INFO]: /recipe <give|take> [player] <name|*>
-[02:10:42] [Server thread/INFO]: /reload
-[02:10:42] [Server thread/INFO]: /replaceitem <entity|block> ...
-[02:10:42] [Server thread/INFO]: /save-all [flush]
-[02:10:45] [Server thread/INFO]: --- Showing help page 5 of 10 (/help <page>) ---
-[02:10:45] [Server thread/INFO]: /pardon-ip <address>
-[02:10:45] [Server thread/INFO]: /particle <name> <x> <y> <z> <xd> <yd> <zd> <speed> [count] [mode] [player] [params]
-[02:10:45] [Server thread/INFO]: /playsound <sound> <source> <player> [x] [y] [z] [volume] [pitch] [minimumVolume]
-[02:10:45] [Server thread/INFO]: /recipe <give|take> [player] <name|*>
-[02:10:45] [Server thread/INFO]: /reload
-[02:10:45] [Server thread/INFO]: /replaceitem <entity|block> ...
-[02:10:45] [Server thread/INFO]: /save-all [flush]
-[02:10:47] [Server thread/INFO]: --- Showing help page 6 of 10 (/help <page>) ---
-[02:10:47] [Server thread/INFO]: /save-off
-[02:10:47] [Server thread/INFO]: /save-on
-[02:10:47] [Server thread/INFO]: /say <message ...>
-[02:10:47] [Server thread/INFO]: /scoreboard <objectives|players|teams> ...
-[02:10:47] [Server thread/INFO]: /seed
-[02:10:47] [Server thread/INFO]: /setblock <x> <y> <z> <block> [dataValue|state] [oldBlockHandling] [dataTag]
-[02:10:47] [Server thread/INFO]: /setidletimeout <minutes>
-[02:10:52] [Server thread/INFO]: --- Showing help page 7 of 10 (/help <page>) ---
-[02:10:52] [Server thread/INFO]: /setworldspawn [<x> <y> <z>]
-[02:10:52] [Server thread/INFO]: /spawnpoint [player] [<x> <y> <z>]
-[02:10:52] [Server thread/INFO]: /spreadplayers <x> <z> <spreadDistance> <maxRange> <respectTeams true|false> <player ...>
-[02:10:52] [Server thread/INFO]: /stats <entity|block> ...
-[02:10:52] [Server thread/INFO]: /stop
-[02:10:52] [Server thread/INFO]: /stopsound <player> [source] [sound]
-[02:10:52] [Server thread/INFO]: /summon <entityname> [x] [y] [z] [dataTag]
-[02:11:36] [Server thread/INFO]: Stopping the server
-[02:11:36] [Server thread/INFO]: Stopping server
-[02:11:36] [Server thread/INFO]: Saving players
-[02:11:36] [Server thread/INFO]: Saving worlds
-[02:11:36] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[02:11:36] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[02:11:36] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[02:11:36] [Server Shutdown Thread/INFO]: Stopping server
-[02:11:36] [Server Shutdown Thread/INFO]: Saving players
-[02:11:36] [Server Shutdown Thread/INFO]: Saving worlds
-[02:11:36] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[00:02:24] [Server thread/WARN]: Fetching addPacket for removed entity
+[00:02:25] [Server thread/WARN]: aprilfool2112 moved too quickly! -219.89016633901622,-5.0,-157.13756358183986
+[00:09:10] [Server thread/INFO]: ChocolateNinja9 lost connection: Disconnected
+[00:09:10] [Server thread/INFO]: ChocolateNinja9 left the game
+[00:32:14] [Server thread/INFO]: blucy100 lost connection: Disconnected
+[00:32:14] [Server thread/INFO]: blucy100 left the game
+[00:32:17] [User Authenticator #6/INFO]: UUID of player blucy100 is 6c078029-ede0-425a-898a-58450865b08c
+[00:32:18] [Server thread/INFO]: blucy100[/47.223.116.146:51052] logged in with entity id 315366 at (292.23766598973515, 62.9375, 164.41589406414255)
+[00:32:18] [Server thread/INFO]: blucy100 joined the game
+[00:36:45] [User Authenticator #7/INFO]: UUID of player ChocolateNinja9 is a954f136-b96d-44fa-9889-8250413f8b94
+[00:36:45] [Server thread/INFO]: ChocolateNinja9[/24.179.223.64:63778] logged in with entity id 317843 at (258.30000001192093, 68.0, 169.30000001192093)
+[00:36:45] [Server thread/INFO]: ChocolateNinja9 joined the game
+[00:40:26] [Server thread/INFO]: <ChocolateNinja9> found it
+[00:40:38] [Server thread/INFO]: <ChocolateNinja9> couldn't figure out the button to use chat
+[00:40:53] [Server thread/INFO]: <ChocolateNinja9> doge I need more leather
+[00:41:46] [Server thread/INFO]: <ChocolateNinja9> doge can I kill more of your cows?
+[00:41:49] [Server thread/INFO]: <ChocolateNinja9> need the leather
+[00:42:14] [Server thread/INFO]: <ChocolateNinja9> need leather now
+[00:42:15] [Server thread/INFO]: <ChocolateNinja9> pls
+[00:42:35] [Server thread/INFO]: <ChocolateNinja9> I need 18 more leather
+[00:42:40] [Server thread/INFO]: <ChocolateNinja9> so prob 27 or so cows
+[00:43:08] [Server thread/INFO]: <ChocolateNinja9> books
+[00:45:26] [Server thread/INFO]: <ChocolateNinja9> ?
+[00:50:05] [Server thread/WARN]: aprilfool2112 moved wrongly!
+[00:51:49] [Server thread/INFO]: <ChocolateNinja9> pretty sure its 8 I think?
+[00:51:53] [Server thread/INFO]: <ChocolateNinja9> 8 or 7
+[00:53:37] [Server thread/WARN]: aprilfool2112 moved wrongly!
+[00:58:07] [Server thread/INFO]: <ChocolateNinja9> uh
+[00:58:58] [Server thread/INFO]: <ChocolateNinja9> its the machine
+[00:59:04] [Server thread/INFO]: <ChocolateNinja9> its making free cooked chicken
+[00:59:18] [Server thread/INFO]: <ChocolateNinja9> yeh
+[00:59:31] [Server thread/INFO]: <ChocolateNinja9> f you hektik
+[00:59:32] [Server thread/INFO]: <ChocolateNinja9> no
+[00:59:37] [Server thread/INFO]: <ChocolateNinja9> doge is gay, not me
+[01:09:11] [Server thread/INFO]: <ChocolateNinja9> ill brb
+[01:09:15] [Server thread/INFO]: <ChocolateNinja9> doge, I still need more leather
+[01:09:20] [Server thread/INFO]: ChocolateNinja9 lost connection: Disconnected
+[01:09:20] [Server thread/INFO]: ChocolateNinja9 left the game
+[01:09:56] [Server thread/INFO]: <NotHeKtik> kklkjdf
+[01:10:05] [Server thread/INFO]: <NotHeKtik> gggggggggggggggggggggg
+[01:10:46] [Server thread/INFO]: <NotHeKtik> ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+[01:11:28] [Server thread/INFO]: <NotHeKtik> ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+[01:11:50] [Server thread/INFO]: <aprilfool2112> auuuuuuuyowooo
+[01:12:02] [Server thread/INFO]: <NotHeKtik> uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+[01:12:02] [Server thread/INFO]: <aprilfool2112> auauauauauauauauauauauaauauauaaauauauauauaa
+[01:12:36] [Server thread/INFO]: <NotHeKtik> wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+[01:13:00] [Server thread/INFO]: <aprilfool2112> poop
+[01:13:07] [Server thread/INFO]: <NotHeKtik> fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+[01:13:40] [Server thread/INFO]: <NotHeKtik> poop poop poop poop poop poop poop poop poop poop poop poop poop poop
+[01:14:01] [Server thread/INFO]: <NotHeKtik> toot
+[01:14:16] [Server thread/INFO]: <aprilfool2112> dooot dooot toot toot booop boop
+[01:14:25] [Server thread/INFO]: <aprilfool2112> boop
+[01:14:33] [Server thread/INFO]: <aprilfool2112> bupe
+[01:14:40] [Server thread/INFO]: <aprilfool2112> wooooooooah
+[01:14:53] [Server thread/INFO]: <aprilfool2112> ayayayayayaya
+[01:15:08] [Server thread/INFO]: <aprilfool2112> yayayayayayayayayayayoyoyoyoyoyoyoyyoyoyo
+[01:15:15] [Server thread/INFO]: <NotHeKtik> woooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooah
+[01:15:31] [Server thread/INFO]: <aprilfool2112> winkey face
+[01:15:40] [Server thread/INFO]: <NotHeKtik> haha gg
+[01:15:53] [Server thread/INFO]: <NotHeKtik> is this easy mode
+[01:18:03] [Server thread/INFO]: NotHeKtik lost connection: Disconnected
+[01:18:03] [Server thread/INFO]: NotHeKtik left the game
+[01:23:29] [Server thread/INFO]: blucy100 lost connection: Disconnected
+[01:23:29] [Server thread/INFO]: blucy100 left the game
+[01:25:44] [Server thread/INFO]: <aprilfool2112> so many fucking chickens
+[01:26:14] [Server thread/INFO]: aprilfool2112 lost connection: Disconnected
+[01:26:14] [Server thread/INFO]: aprilfool2112 left the game
+[01:33:37] [Server thread/INFO]: gurellia53 lost connection: Disconnected
+[01:33:37] [Server thread/INFO]: gurellia53 left the game
+[01:33:47] [Server thread/INFO]: Stopping the server
+[01:33:47] [Server thread/INFO]: Stopping server
+[01:33:47] [Server thread/INFO]: Saving players
+[01:33:47] [Server thread/INFO]: Saving worlds
+[01:33:47] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[01:33:47] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[01:33:47] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[01:33:47] [Server Shutdown Thread/INFO]: Stopping server
+[01:33:47] [Server Shutdown Thread/INFO]: Saving players
+[01:33:47] [Server Shutdown Thread/INFO]: Saving worlds
+[01:33:47] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[01:33:47] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
+[01:33:47] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
